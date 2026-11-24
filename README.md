@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently studying master in AI and autonomous systems at Aalborg Univeristy 
-- 📫 How to reach me: hdabro21@student.aau.dk, linkedin.com/in/hubert-dabrowski1
+- 📫 How to reach me: hubertdabrowski.eng@gmail.com, linkedin.com/in/hubert-dabrowski1
 
 AI1 - Embedding of Time-series and Text Modalities for Fault Classification
 Sep 2024 – Jan 2025
